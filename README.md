@@ -1,8 +1,8 @@
-HappyHourProject
+## HappyHourProject
 Description
 Le projet HappyHourProject vise à collecter, analyser et présenter les informations sur les happy hours des bars à Toulouse. Il comprend des étapes de webscraping, d'analyse de données, de visualisation, et d'envoi d'informations via e-mail.
 
-Étapes du Projet
+## Étapes du Projet
 Partie 1 : Extraction des Données
 Scraping des informations nécessaires à partir du site Schlouk Map :
 URL: Schlouk Map - Toulouse Happy Hour
